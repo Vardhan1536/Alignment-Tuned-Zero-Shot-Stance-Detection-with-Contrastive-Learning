@@ -7,13 +7,13 @@ This repository contains the official implementation for the paper:
 **"Zero-Shot Stance Detection using Reinforcement Learning and Contrastive Learning"**  
 
 The entire project—from data loading and preprocessing to model training and evaluation—is implemented in a single Google Colab notebook for easy reproducibility.
-This is the research paper we have refered for - [research paper](https://arxiv.org/pdf/2212.10560).
 
 ---
 
 ## 📄 Project Documentation
 
-For a detailed explanation of the methodology, theory, and in-depth analysis, refer to the [full project documentation PDF](https://drive.google.com/file/d/1OGq3qJbUjxRQiQxEKdr6COB0RPv_96Nr/view?usp=drive_link).
+- For a detailed explanation of the methodology, theory, and in-depth analysis, refer to the [full project documentation PDF](https://drive.google.com/file/d/1OGq3qJbUjxRQiQxEKdr6COB0RPv_96Nr/view?usp=drive_link).
+- This is the research paper we have refered for initial ideas - [research paper](https://arxiv.org/pdf/2212.10560).
 
 ---
 
