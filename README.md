@@ -1,6 +1,6 @@
 # Alignment-Tuned-Zero-Shot-Stance-Detection-with-Contrastive-Learning
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This repository contains the official implementation for the paper:  
